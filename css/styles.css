@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  color: #40514E;
+  line-height: 2;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle-container {
+  margin: auto;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  margin-top: 100px;
+  padding: 10px;
+}
+
+.pro {
+  text-decoration: underline;
+  color: brown;
+}
+
+.top-cloud {
+  position: absolute;
+  margin-right: 20px;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  margin-left: 20px;
+  left: 300px;
+  bottom: 300px;
+}
+
+.footer-link {
+  font-size: 22px;
+  color: black;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+.prog-img {
+  width: 20%;
+  float: left;
+  padding-right: 10%;
+}
+
+.developer-img {
+  width: 20%;
+  float: right;
+  padding-left: 10%;
+}
+
+.skills {
+  margin-top: 50px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.profile {
+  padding-top: 5%;
+  margin-bottom: 80px;
+}
+
+.intro {
+  width: 40%;
+  margin: auto;
+}
+
+hr {
+  border: dotted #EAF6F6 10px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.contact-me-para {
+  width: 40%;
+  margin: 40px auto 70px;
+}
+
+.contact-btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 20px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.contact-btn:hover {
+  background: #3caffc;
+  text-decoration: none;
+}
+
+.copyright {
+  color: white;
+  font-size: 18px;
+}
